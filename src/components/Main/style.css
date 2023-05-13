@@ -1,0 +1,28 @@
+p{
+    text-align: left;
+}
+
+.usual{
+    background-color: #fafdf2;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.light {
+    background-color: #f3f8e5;
+    color:#444d34;
+
+    }
+
+.dark{
+    background-color: #444d34;
+    color: #0a0a09;
+}
+
+button{
+    background-color: #ADC383;
+    border: 0;
+    border-radius: 8px;
+    padding: 5px;
+}
+
